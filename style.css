@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-image: url('https://www.keralatourism.org/images/sitemap/where_to_go20190412062659.jpg');
+    font-size:28px;
+    color: #fff;
+    padding: 20px 10px;
+    text-align: center;
+    height:500px;
+}
+
+header nav ul {
+    background-color:yellow;
+    opacity:2.6;
+    font-size:28px;
+    list-style: none;
+    padding: 0;
+}
+
+header nav ul li {
+    background-color:yellow;
+    opacity:2.6;
+    font-size:28px;
+    display: inline;
+    margin: 0 15px;
+}
+
+header nav a {
+    background-color:yellow;
+    opacity:2.6;
+    font-size:28px;
+    text-decoration: none;
+}
+
+section {
+    text-align: center;
+    font-color:Gray;
+    background:lightblue;
+    border-radius: 10px;
+}
+
+.img {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #333333e8;
+    border-radius: 8px;
+    
+
+}
+footer {
+    text-align: center;
+    font-size:28px;
+    padding: 20px;
+    background: #8fbc8f;
+    color: #fff;
+}
